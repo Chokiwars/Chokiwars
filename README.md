@@ -74,3 +74,7 @@ Meu foco principal é em **Tailwind CSS**, **JavaScript** e **React**.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1500&color=D7A9FF&center=true&vCenter=true&width=600&fade=true&repeat=true&lines=✨+Obrigada+por+visitar+meu+perfil!;Fique+à+vontade+para+explorar+meus+projetos+😊" />
 </p>
 
+<!-- Animação da Cobrinha -->
+<p align="center">
+  <img src="https://github.com/chokiwars/chokiwars/blob/output/snake.svg" />
+</p>
