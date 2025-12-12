@@ -1,54 +1,31 @@
-# Olá a todos!
+# Olá, eu sou a Beatriz 👋
 
-<html>
-<ul>
-<li>Me chamo Beatriz Andreos, sou desenvolvedora FrontEnd em formação pelo projeto <strong>Ford ENTER</strong></li>
-<li>Meus hobbies são desenhar, principalmente animais e ouvir música internacional.</li>
-</ul>
-</html>
-<!-- name: Gera Animação
+## 🙋‍♀️ Sobre mim
+Me chamo **Beatriz Andreos Bezerra**, tenho **20 anos** e sou **Desenvolvedora Front-End Júnior**. Sou apaixonada por criar interfaces modernas e funcionais, com foco especial em **Tailwind CSS**, **JavaScript** e **React**.
 
-on:
-  # executa automaticamente a cada 24h
-  schedule:
-    - cron: "0 */24 * * *" 
-  
-  # permite executar a tarefa manualmente a qualquer momento
-  workflow_dispatch:
-  
-  # executa em cada push na branch main
-  push:
-    branches:
-    - main
-    
-  
+Gosto de transformar ideias em experiências visuais agradáveis, e estilizar páginas e sistemas é o que realmente me motiva no desenvolvimento.
 
-jobs:
-  generate:
-    permissions: 
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    steps:
-    
-      # Gera um jogo da cobrinha (animação SVG) a partir do grafo de contribuições do usuário do GitHub.
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-          
-      # Faz push do conteúdo para a branch output.
-      # O conteúdo estará disponível em https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> 
-      # ou como página do GitHub.
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} -->
+## 🎓 Formação
+- Cursando **Desenvolvimento de Sistemas** no **SENAI Anchieta**.
+- Certificada pelo projeto **Ford<Enter>**, realizado pela *Ford, SENAI e Rede Cidadã*, com foco em desenvolvimento front-end.
+
+## 🚀 O que me move
+- Estou sempre em busca de **novos desafios** e oportunidades para elevar meu nível técnico.
+- Adoro participar de **events, comunidades e hackathons**, onde posso aprender, colaborar e me inspirar.
+
+## 💻 Tecnologias e Ferramentas
+- **JavaScript**
+- **React**
+- **Tailwind CSS**
+- HTML & CSS
+- Git & GitHub
+
+## 🌱 Atualmente aprendendo
+- Aprimorando minhas habilidades em React e boas práticas de UI/UX.
+
+## 📫 Onde me encontrar
+- Em breve você pode adicionar seus links aqui! :)
+
+---
+
+✨ Obrigada por visitar meu perfil! Fique à vontade para explorar meus projetos.
