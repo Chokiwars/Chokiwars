@@ -10,8 +10,9 @@
 
 <!-- Subtítulo (fade in/out nas palavras) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=D7A9FF&center=true&vCenter=true&width=900&fade=true&lines=🌟+Desenvolvedora+Front-End+Jr;Tailwind+CSS+|+JavaScript+|+React" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=D7A9FF&center=true&vCenter=true&width=900&fade=true&repeat=true&lines=🌟+Desenvolvedora+Front-End+Jr;Tailwind+CSS+|+JavaScript+|+React" />
 </p>
+
 
 Sou apaixonada por criar interfaces bonitas, responsivas e com excelente experiência para o usuário.  
 Meu foco principal é em **Tailwind CSS**, **JavaScript** e **React**.
@@ -70,5 +71,6 @@ Meu foco principal é em **Tailwind CSS**, **JavaScript** e **React**.
 
 <!-- Rodapé com fade -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=D7A9FF&center=true&vCenter=true&width=600&fade=true&lines=✨+Obrigada+por+visitar+meu+perfil!;Fique+à+vontade+para+explorar+meus+projetos+😊" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1500&color=D7A9FF&center=true&vCenter=true&width=600&fade=true&repeat=true&lines=✨+Obrigada+por+visitar+meu+perfil!;Fique+à+vontade+para+explorar+meus+projetos+😊" />
 </p>
+
