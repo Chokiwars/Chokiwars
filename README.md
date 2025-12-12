@@ -1,31 +1,55 @@
-# Olá, eu sou a Beatriz 👋
+# 👋 Olá! Eu sou a Beatriz Andreos Bezerra
 
-## 🙋‍♀️ Sobre mim
-Me chamo **Beatriz Andreos Bezerra**, tenho **20 anos** e sou **Desenvolvedora Front-End Júnior**. Sou apaixonada por criar interfaces modernas e funcionais, com foco especial em **Tailwind CSS**, **JavaScript** e **React**.
+### 🌟 Desenvolvedora Front-End Jr | Tailwind | JavaScript | React
 
-Gosto de transformar ideias em experiências visuais agradáveis, e estilizar páginas e sistemas é o que realmente me motiva no desenvolvimento.
-
-## 🎓 Formação
-- Cursando **Desenvolvimento de Sistemas** no **SENAI Anchieta**.
-- Certificada pelo projeto **Ford<Enter>**, realizado pela *Ford, SENAI e Rede Cidadã*, com foco em desenvolvimento front-end.
-
-## 🚀 O que me move
-- Estou sempre em busca de **novos desafios** e oportunidades para elevar meu nível técnico.
-- Adoro participar de **events, comunidades e hackathons**, onde posso aprender, colaborar e me inspirar.
-
-## 💻 Tecnologias e Ferramentas
-- **JavaScript**
-- **React**
-- **Tailwind CSS**
-- HTML & CSS
-- Git & GitHub
-
-## 🌱 Atualmente aprendendo
-- Aprimorando minhas habilidades em React e boas práticas de UI/UX.
-
-## 📫 Onde me encontrar
-- Em breve você pode adicionar seus links aqui! :)
+Sou apaixonada por criar interfaces bonitas, responsivas e com excelente experiência para o usuário.  
+Meu foco principal é em **Tailwind CSS**, **JavaScript** e **React**, e amo cada parte do processo de estilização e desenvolvimento front-end.
 
 ---
 
-✨ Obrigada por visitar meu perfil! Fique à vontade para explorar meus projetos.
+## 💻 Sobre mim
+
+- Tenho **20 anos** e sou Dev Front-End Jr.
+- Apaixonada por **design e estilização de páginas e sistemas**.
+- Sempre em busca de **novos desafios** e aprendizado.
+- Adoro participar de **eventos e hackathons**.
+- Atualmente estou cursando **Desenvolvimento de Sistemas** no **SENAI Anchieta**.
+- Possuo certificado no projeto **Ford<Enter>** (Ford, SENAI e Rede Cidadã).
+
+---
+
+## 🛠 Tecnologias & Ferramentas
+
+Aqui estão algumas das tecnologias com que mais trabalho:
+
+- **JavaScript**
+- **React**
+- **Tailwind CSS**
+- **HTML5 & CSS3**
+- **Git & GitHub**
+
+---
+
+## 🚀 Projetos Fixados
+
+🔹 *Coloque aqui seus projetos favoritos ou mais importantes*  
+Exemplo:
+
+**📌 Meu Portfolio** – Site pessoal mostrando meus projetos em React e design com Tailwind.  
+**📌 Projeto X** – Breve descrição do que o projeto faz (ex.: e-commerce, API integrada, UI component, etc.).  
+*(adicione mais conforme quiser)*
+
+---
+
+## 📫 Contato
+
+✨ Vamos nos conectar!
+
+- 👩‍💻 GitHub: github.com/chokiwars  
+*[- 💼 LinkedIn:](https://www.linkedin.com/in/beatriz-andreos-bezerra-49a9a0368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*  
+- 📧 Email: *beatrizandreosbezerra1@gmail.com*
+
+---
+
+✨ Obrigada por visitar meu perfil!  
+Fique à vontade para explorar meus projetos e tirar dúvidas 😊
