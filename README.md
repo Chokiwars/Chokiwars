@@ -1,20 +1,27 @@
 <!-- Banner -->
 <p align="center">
-  <img src="BANNER%20OFICIAL.png" width="100%" />
+  <img src="./BANNER%20OFICIAL.png" width="100%" />
 </p>
 
-<h1 align="center" style="color:#b974f7;">👋 Olá! Eu sou a Beatriz Andreos Bezerra</h1>
+<!-- Título principal (roxo, sem digitação, pulsante) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=2000&color=B974F7&center=true&vCenter=true&repeat=false&width=1000&lines=👋+Olá!+Eu+sou+a+Beatriz+Andreos+Bezerra" />
+</p>
 
-<h3 align="center" style="color:#d7a9ff;">
-  🌟 Desenvolvedora Front-End Jr | Tailwind | JavaScript | React
-</h3>
+<!-- Subtítulo (fade in/out nas palavras) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=D7A9FF&center=true&vCenter=true&width=900&fade=true&lines=🌟+Desenvolvedora+Front-End+Jr;Tailwind+CSS+|+JavaScript+|+React" />
+</p>
 
 Sou apaixonada por criar interfaces bonitas, responsivas e com excelente experiência para o usuário.  
-Meu foco principal é em **Tailwind CSS**, **JavaScript** e **React**, e amo cada parte do processo de estilização e desenvolvimento front-end.
+Meu foco principal é em **Tailwind CSS**, **JavaScript** e **React**.
 
 ---
 
-<h2 align="center" style="color:#c287ff;">💻 Sobre mim</h2>
+<!-- Título Sobre Mim (roxo, sem digitação, pulsante) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=2000&color=B974F7&center=true&vCenter=true&repeat=false&width=600&lines=💻+Sobre+mim" />
+</p>
 
 - Tenho **20 anos** e sou Dev Front-End Jr.  
 - Atualmente trabalhando como **Desenvolvedora de Sistemas Jr na SMH Sistemas**.  
@@ -22,45 +29,46 @@ Meu foco principal é em **Tailwind CSS**, **JavaScript** e **React**, e amo cad
 - Sempre em busca de **novos desafios** e aprendizado.  
 - Adoro participar de **eventos e hackathons**.  
 - Atualmente estou cursando **Desenvolvimento de Sistemas** no **SENAI Anchieta**.  
-- Possuo certificado no projeto **Ford&lt;Enter&gt;** (Ford, SENAI e Rede Cidadã).
+- Possuo certificado no projeto **Ford<Enter>** (Ford, SENAI e Rede Cidadã).
 
 ---
 
-<h2 align="center" style="color:#c287ff;">🛠 Tecnologias & Ferramentas</h2>
+<!-- Título Tecnologias (roxo, sem digitação, pulsante) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=2000&color=B974F7&center=true&vCenter=true&repeat=false&width=900&lines=🛠+Tecnologias+%26+Ferramentas" />
+</p>
 
-Aqui estão algumas das tecnologias com que mais trabalho:
-
-- **JavaScript**
-- **React**
-- **Tailwind CSS**
-- **HTML5 & CSS3**
+- **JavaScript**  
+- **React**  
+- **Tailwind CSS**  
+- **HTML5 & CSS3**  
 - **Git & GitHub**
 
 ---
 
-<h2 align="center" style="color:#c287ff;">🚀 Projetos em Destaque</h2>
+<!-- Título Projetos (roxo, sem digitação, pulsante) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=2000&color=B974F7&center=true&vCenter=true&repeat=false&width=800&lines=🚀+Projetos+em+Destaque" />
+</p>
 
-### 📌 [Site Oficial](https://github.com/Chokiwars/Choki_for_you-Website)
-O **Choki for You** é um site criado para apresentar minha arte de forma visualmente agradável e interativa. Com uma galeria completa, banners personalizados e cards estilizados, o objetivo é transmitir minha identidade artística através de uma experiência fluida e moderna para o usuário.
-
----
+### 📌 [Site Oficial – Choki For You](https://github.com/Chokiwars/Choki_for_you-Website)
 
 ### 📌 [SMH Sistemas Contra Incêndios](https://github.com/Chokiwars/site-teste-smh)
-Este projeto foi desenvolvido em parceria com dois colegas (adicione os nomes e links aqui). O objetivo foi renovar a presença digital da **SMH Sistemas**, trazendo um visual mais moderno, profissional e convidativo. O site é totalmente responsivo, intuitivo e projetado para oferecer ao usuário uma experiência limpa e funcional, refletindo a qualidade e seriedade da empresa.
 
 ---
 
-<h2 align="center" style="color:#c287ff;">📫 Contato</h2>
-
-✨ Vamos nos conectar!
+<!-- Título Contato (roxo, sem digitação, pulsante) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=2000&color=B974F7&center=true&vCenter=true&repeat=false&width=400&lines=📫+Contato" />
+</p>
 
 - 👩‍💻 GitHub: https://github.com/chokiwars  
-- 💼 LinkedIn: [Beatriz Andreos Bezerra](https://www.linkedin.com/in/beatriz-andreos-bezerra-49a9a0368)  
+- 💼 LinkedIn: https://www.linkedin.com/in/beatrizandreosbezerra-49a9a0368  
 - 📧 Email: **beatrizandreosbezerra1@gmail.com**
 
 ---
 
-<p align="center" style="color:#d7a9ff;">
-  ✨ Obrigada por visitar meu perfil!  
-  Fique à vontade para explorar meus projetos e tirar dúvidas 😊
+<!-- Rodapé com fade -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=D7A9FF&center=true&vCenter=true&width=600&fade=true&lines=✨+Obrigada+por+visitar+meu+perfil!;Fique+à+vontade+para+explorar+meus+projetos+😊" />
 </p>
