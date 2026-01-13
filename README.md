@@ -114,6 +114,11 @@ Meu foco principal é em **Tailwind CSS**, **JavaScript** e **React**.
 </p>
 
 <!-- Animação da Cobrinha -->
-<p align="center">
-  <img src="https://github.com/chokiwars/chokiwars/blob/output/snake.svg" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EricSouzaDosSantos/EricSouzaDosSantos/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EricSouzaDosSantos/EricSouzaDosSantos/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/EricSouzaDosSantos/EricSouzaDosSantos/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
