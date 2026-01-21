@@ -5,12 +5,12 @@
 
 <!-- Título principal -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=2000&color=B974F7&center=true&vCenter=true&repeat=false&width=1000&lines=👋+Olá!+Eu+sou+a+Beatriz+Andreos+Bezerra" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1&pause=2000&color=B974F7&center=true&vCenter=true&repeat=false&width=1000&lines=✧+Olá!+Eu+sou+Beatriz+Andreos+Bezerra+✧" />
 </p>
 
 <!-- Subtítulo -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=D7A9FF&center=true&vCenter=true&width=900&fade=true&repeat=true&lines=🌟+Desenvolvedora+Front-End+Jr;Tailwind+CSS+|+JavaScript+|+React" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=D7A9FF&center=true&vCenter=true&width=900&fade=true&repeat=true&lines=✦+Desenvolvedora+Front-End+Jr+✦;✦+Tailwind+.+CSS+JavaScript+.+React+✦" />
 </p>
 
 Sou apaixonada por criar interfaces **bonitas, responsivas e focadas na experiência do usuário**.  
