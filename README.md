@@ -10,7 +10,7 @@
 
 <!-- Subtítulo -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=D7A9FF&center=true&vCenter=true&width=900&fade=true&repeat=true&lines=✦+Desenvolvedora+Front-End+Jr+✦;✦+Tailwind+.+CSS+JavaScript+.+React+✦" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=D7A9FF&center=true&vCenter=true&width=900&fade=true&repeat=true&lines=✦+Desenvolvedora+Front-End+Jr+✦;✦+Tailwind+CSS+.+JavaScript+.+React+✦" />
 </p>
 
 Sou apaixonada por criar interfaces **bonitas, responsivas e focadas na experiência do usuário**.  
@@ -20,7 +20,7 @@ Meu foco principal está em **Tailwind CSS**, **JavaScript** e **React**, sempre
 
 <!-- Sobre mim -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=2000&color=B974F7&center=true&vCenter=true&repeat=false&width=600&lines=💻+Sobre+mim" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=2000&color=B974F7&center=true&vCenter=true&repeat=false&width=600&lines=✯+Sobre+mim+✯" />
 </p>
 
 - Tenho **20 anos** e sou **Desenvolvedora Front-End Jr**.  
@@ -35,7 +35,7 @@ Meu foco principal está em **Tailwind CSS**, **JavaScript** e **React**, sempre
 
 <!-- Tecnologias -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=2000&color=B974F7&center=true&vCenter=true&repeat=false&width=900&lines=🛠+Tecnologias+%26+Ferramentas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=2000&color=B974F7&center=true&vCenter=true&repeat=false&width=900&lines=🛠+Tecnologias+%26+Ferramentas+🛠" />
 </p>
 
 ## 🎨 Front-End
@@ -139,5 +139,5 @@ Meu foco principal está em **Tailwind CSS**, **JavaScript** e **React**, sempre
 
 <!-- Rodapé -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1500&color=D7A9FF&center=true&vCenter=true&width=600&fade=true&repeat=true&lines=✨+Obrigada+por+visitar+meu+perfil!;Fique+à+vontade+para+explorar+meus+projetos+😊" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1500&color=D7A9FF&center=true&vCenter=true&width=600&fade=true&repeat=true&lines=✨+Obrigada+por+visitar+meu+perfil!;Fique+à+vontade+para+explorar+meus+projetos+💜" />
 </p>
