@@ -115,7 +115,7 @@ Meu foco principal está em **Tailwind CSS**, **JavaScript** e **React**, sempre
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EricSouzaDosSantos&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chokiwars&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 
