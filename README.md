@@ -33,6 +33,21 @@ Meu foco principal está em **Tailwind CSS**, **JavaScript** e **React**, sempre
 
 ---
 
+<!-- Minha Stack -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=2000&color=B974F7&center=true&vCenter=true&repeat=false&width=600&lines=✮+Minha+stack+✮" />
+</p>
+
+<div align="center">
+
+| **Front-end** | **Tools & Frameworks** | **UI/UX** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind" height="50" /> | <img src="https://skillicons.dev/icons?i=react,vite" height="50" /> | <img src="https://skillicons.dev/icons?i=figma" height="50" /> |
+
+</div>
+
+---
+
 <!-- Tecnologias -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=2000&color=B974F7&center=true&vCenter=true&repeat=false&width=900&lines=🛠+Tecnologias+%26+Ferramentas+🛠" />
@@ -46,32 +61,32 @@ Meu foco principal está em **Tailwind CSS**, **JavaScript** e **React**, sempre
 ![React](https://img.shields.io/badge/React-1E1B2E?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-1E1B2E?style=for-the-badge&logo=react-router&logoColor=CA4245)
 
----
+<br />
 
 ## 🎨 Front-End (Conhecimentos Complementares)
 ![Vue.js](https://img.shields.io/badge/Vue.js-1E1B2E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-1E1B2E?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
 
----
+<br />
 
 ## ⚙️ Back-End & Linguagens
 ![NodeJS](https://img.shields.io/badge/Node.js-1E1B2E?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 ![Java](https://img.shields.io/badge/Java-1E1B2E?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![Spring](https://img.shields.io/badge/Spring-1E1B2E?style=for-the-badge&logo=spring&logoColor=6DB33F)
 
----
+<br />
 
 ## 🧠 Outras Linguagens
 ![Kotlin](https://img.shields.io/badge/Kotlin-1E1B2E?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![Python](https://img.shields.io/badge/Python-1E1B2E?style=for-the-badge&logo=python&logoColor=FFDD54)
 ![C++](https://img.shields.io/badge/C++-1E1B2E?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 
----
+<br />
 
 ## 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-1E1B2E?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
----
+<br />
 
 ## 🧰 Ferramentas de Desenvolvimento
 ![Git](https://img.shields.io/badge/Git-1E1B2E?style=for-the-badge&logo=git&logoColor=F05033)
@@ -80,18 +95,18 @@ Meu foco principal está em **Tailwind CSS**, **JavaScript** e **React**, sempre
 ![Swagger](https://img.shields.io/badge/Swagger-1E1B2E?style=for-the-badge&logo=swagger&logoColor=85EA2D)
 ![Gradle](https://img.shields.io/badge/Gradle-1E1B2E?style=for-the-badge&logo=gradle&logoColor=02303A)
 
----
+<br />
 
 ## 🎨 Design & UI/UX
 ![Figma](https://img.shields.io/badge/Figma-1E1B2E?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Canva](https://img.shields.io/badge/Canva-1E1B2E?style=for-the-badge&logo=canva&logoColor=00C4CC)
 
----
+<br />
 
 ## ⚡ Build Tools & Performance
 ![Vite](https://img.shields.io/badge/Vite-1E1B2E?style=for-the-badge&logo=vite&logoColor=646CFF)
 
----
+<br />
 
 ## 🔌 IoT & Outros
 ![Arduino](https://img.shields.io/badge/Arduino-1E1B2E?style=for-the-badge&logo=arduino&logoColor=00979D)
