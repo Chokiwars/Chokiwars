@@ -96,6 +96,7 @@ Meu foco principal está em **Tailwind CSS**, **JavaScript** e **React**, sempre
 ## 🔌 IoT & Outros
 ![Arduino](https://img.shields.io/badge/Arduino-1E1B2E?style=for-the-badge&logo=arduino&logoColor=00979D)
 ![Mosquitto](https://img.shields.io/badge/Mosquitto-1E1B2E?style=for-the-badge&logo=eclipsemosquitto&logoColor=3C5280)
+![Markdown](https://img.shields.io/badge/markdown-1E1B2E?style=for-the-badge&logo=markdown&logoColor=FFFFFF)
 
 ---
 
@@ -132,12 +133,19 @@ Meu foco principal está em **Tailwind CSS**, **JavaScript** e **React**, sempre
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chokiwars&theme=tokyonight&hide_border=true" alt="Streak" />
+
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chokiwars&theme=tokyonight&hide_border=true" />
+
+  <br>
+
+  <!-- Stats + Linguagens lado a lado -->
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chokiwars&show_icons=true&theme=tokyonight&hide_border=true&title_color=B974F7&icon_color=B974F7&text_color=ffffff" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chokiwars&layout=compact&theme=tokyonight&hide_border=true&title_color=B974F7&text_color=ffffff" />
+
 </div>
 
-
 ---
-
 <!-- Animação da Cobrinha -->
 <div align="center">
   <picture>
