@@ -42,7 +42,7 @@ Meu foco principal está em **Tailwind CSS**, **JavaScript** e **React**, sempre
 
 | **Front-end** | **Tools & Frameworks** | **UI/UX** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind" height="50" /> | <img src="https://skillicons.dev/icons?i=react,vite" height="50" /> | <img src="https://skillicons.dev/icons?i=figma" height="50" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind" height="50" /> | <img src="https://skillicons.dev/icons?i=react,vite" height="50" /> | <img src="https://skillicons.dev/icons?i=figma" height="50 " /> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Canva.svg" height="50">
 
 </div>
 
@@ -99,7 +99,7 @@ Meu foco principal está em **Tailwind CSS**, **JavaScript** e **React**, sempre
 
 ## 🎨 Design & UI/UX
 ![Figma](https://img.shields.io/badge/Figma-1E1B2E?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Canva](https://img.shields.io/badge/Canva-1E1B2E?style=for-the-badge&logo=canva&logoColor=00C4CC)
+![Canva](https://img.shields.io/badge/Canva-1E1B2E?style=for-the-badge&logo=Canva&logoColor=00C4CC)
 
 <br />
 
