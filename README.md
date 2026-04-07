@@ -154,6 +154,13 @@ Meu foco principal está em **Tailwind CSS**, **JavaScript** e **React**, sempre
 
   <br>
 
+   <div align="center">
+    <br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chokiwars&theme=tokyonight" alt="Profile Details" />
+  </div>
+  
+  <br>
+
   <!-- Stats + Linguagens lado a lado -->
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chokiwars&show_icons=true&theme=tokyonight&hide_border=true&title_color=B974F7&icon_color=B974F7&text_color=ffffff" />
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chokiwars&layout=compact&theme=tokyonight&hide_border=true&title_color=B974F7&text_color=ffffff" />
