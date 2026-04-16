@@ -125,20 +125,20 @@ Meu foco principal está em **Tailwind CSS**, **JavaScript** e **React**, sempre
 </p>
 
 ### 📌 [Site Oficial – Choki For You](https://github.com/Chokiwars/Choki_for_you-Website)
-Descrição do projeto.
+Plataforma web desenvolvida para apresentar o projeto Site Oficial – Choki For You, com foco em experiência do usuário, navegação intuitiva e identidade visual moderna. O sistema foi pensado para comunicar a proposta do projeto de forma clara, unindo design responsivo e boas práticas de desenvolvimento frontend.
 
 ### 📌 [SMH Sistemas Contra Incêndios](https://github.com/Chokiwars/site-teste-smh)
-Descrição do projeto.
+Site institucional criado para a empresa SMH Sistemas, com o objetivo de divulgar serviços, fortalecer a presença digital e facilitar o contato com clientes. O projeto prioriza organização de conteúdo, clareza nas informações e uma estrutura limpa, alinhada ao contexto corporativo.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=2000&color=D7A9FF&center=true&vCenter=true&repeat=false&width=800&lines=Projetos+em+Desenvolvimento" />
 </p>
 
 ### 📌 [Portifolio](https://github.com/Chokiwars/Portifolio.git)
-Descrição do projeto.
+Portfólio pessoal desenvolvido para apresentar projetos, habilidades e trajetória na área de desenvolvimento. O foco está em demonstrar competências técnicas, organização de projetos e evolução profissional, com uma interface moderna e responsiva.
 
 ### 📌 [Manual do Frontend](https://github.com/Chokiwars/Frontend-Manual).
-Descrição do projeto.
+Guia prático com boas práticas de desenvolvimento frontend, abordando padrões de código, organização de projetos, estruturação de componentes e conceitos essenciais para manter qualidade e escalabilidade em aplicações web.
 
 ---
 
