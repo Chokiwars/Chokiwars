@@ -117,14 +117,28 @@ Meu foco principal está em **Tailwind CSS**, **JavaScript** e **React**, sempre
 
 <!-- Projetos -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=2000&color=B974F7&center=true&vCenter=true&repeat=false&width=800&lines=🚀+Projetos+em+Destaque" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=2000&color=B974F7&center=true&vCenter=true&repeat=false&width=800&lines=🚀+Projetos" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=2000&color=D7A9FF&center=true&vCenter=true&repeat=false&width=800&lines=Projetos+em+Destaque" />
 </p>
 
 ### 📌 [Site Oficial – Choki For You](https://github.com/Chokiwars/Choki_for_you-Website)
-🎨 Design autoral com foco em UI moderna e responsiva.
+Descrição do projeto.
 
 ### 📌 [SMH Sistemas Contra Incêndios](https://github.com/Chokiwars/site-teste-smh)
-🚒 Sistema corporativo com atenção à estrutura, usabilidade e clareza visual.
+Descrição do projeto.
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=2000&color=D7A9FF&center=true&vCenter=true&repeat=false&width=800&lines=Projetos+em+Desenvolvimento" />
+</p>
+
+### 📌 [Portifolio](https://github.com/Chokiwars/Portifolio.git)
+Descrição do projeto.
+
+### 📌 [Manual do Frontend](https://github.com/Chokiwars/Frontend-Manual).
+Descrição do projeto.
 
 ---
 
