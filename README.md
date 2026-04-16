@@ -13,8 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1500&color=D7A9FF&center=true&vCenter=true&width=900&fade=true&repeat=true&lines=✦+Desenvolvedora+Front-End+Jr+✦;✦+Tailwind+CSS+.+JavaScript+.+React+✦" />
 </p>
 
-Sou apaixonada por criar interfaces **bonitas, responsivas e focadas na experiência do usuário**.  
-Meu foco principal está em **Tailwind CSS**, **JavaScript** e **React**, sempre buscando unir **design e performance**.
+Desenvolvedora Front-End focada em criar interfaces modernas, responsivas e com alta qualidade de experiência do usuário.
 
 ---
 
